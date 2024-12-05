@@ -1,6 +1,8 @@
 # PowerBI_Blinkit_project
 Visualization of blinkit datsets in a responsive dashboard using PowerBI
 
+A modern and user-friendly grocery store management application that streamlines inventory, sales, and customer interaction for efficient operations and a seamless shopping experience.
+
 # KPI Requirements
 1. Total Sales
 2. Average Sales
